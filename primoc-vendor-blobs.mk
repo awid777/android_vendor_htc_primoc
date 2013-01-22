@@ -1,4 +1,4 @@
-# Copyright (C) 2010 The Android Open Source Project
+	# Copyright (C) 2010 The Android Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -130,5 +130,4 @@ PRODUCT_COPY_FILES += \
 
 # Temp
 PRODUCT_COPY_FILES += \
-    vendor/htc/primoc/proprietary/lib/hw/hwcomposer.msm7x30.so:system/lib/hw/hwcomposer.msm7x30.so \
     vendor/htc/primoc/proprietary/lib/libhardware_legacy.so:/system/lib/libhardware_legacy.so
